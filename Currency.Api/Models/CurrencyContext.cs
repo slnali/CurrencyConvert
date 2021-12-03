@@ -24,7 +24,7 @@ namespace Currency.Api.Models
         /// Gets or sets the currencies table. 
         /// </summary>
         /// <value>
-        /// The payments.
+        /// The currencies.
         /// </value>
         public DbSet<Models.Currency> Currencies { get; }
 

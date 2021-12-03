@@ -10,9 +10,8 @@ namespace Currency.Api.Repositories
     public interface IExchangeRepository
     {
         /// <summary>
-        /// Processes the payment.
+        /// Processes the currency.
         /// </summary>
-        /// <param name="payment">The payment.</param>
         /// <returns></returns>
         Task<float> GetExchangeRate(string fromCurrency, string toCurrency);
     }

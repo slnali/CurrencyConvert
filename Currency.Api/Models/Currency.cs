@@ -5,7 +5,7 @@ namespace Currency.Api.Models
 {
     //POC: Card details class and user details should have nested classes here - improved
     /// <summary>
-    /// Payment Model used to store data in database
+    /// Currency Model used to store data in database
     /// </summary>
     public class Currency
     {
@@ -33,7 +33,7 @@ namespace Currency.Api.Models
         /// Gets or sets the currency identifier.
         /// </summary>
         /// <value>
-        /// The payment identifier.
+        /// The currency identifier.
         /// </value>
         [Required]
         public int Id { get; set; }
@@ -42,7 +42,7 @@ namespace Currency.Api.Models
         /// Gets or sets the currency symbol.
         /// </summary>
         /// <value>
-        /// The payment identifier.
+        /// The currency symbol.
         /// </value>
         [Required]
         public string Symbol { get; }
@@ -51,7 +51,7 @@ namespace Currency.Api.Models
         /// Gets or sets the currency name/description.
         /// </summary>
         /// <value>
-        /// The payment identifier.
+        /// The currency name.
         /// </value>
         [Required]
         public string Name { get; }

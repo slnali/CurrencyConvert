@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jqoky5kH1tm4h6slgMMsdk6exF7qXw6kPrdl8SIfONW0aJJqmgNmRUAceiEinCoRVa/9xQXCOPP001Lkv9QHSw==",
+  "dgSpecHash": "qHnYhCHUX3JmX2+zT0LjcpkKpb1Q3Oy3zhNofn1N/KumFILNZ1GIZWH6CzSTMju8TbPDHL1JhfO5XopHqvEWdA==",
   "success": true,
   "projectFilePath": "/Users/nal/Documents/Repos/CurrencyConvert/Currency.Api/Currency.Api.csproj",
   "expectedPackageFiles": [
@@ -105,9 +105,9 @@
     "/Users/nal/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/nal/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/Users/nal/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "/Users/nal/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/nal/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/Users/nal/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512",
-    "/Users/nal/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "/Users/nal/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }

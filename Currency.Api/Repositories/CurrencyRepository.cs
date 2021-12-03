@@ -9,14 +9,14 @@ namespace Currency.Api.Repositories
 {
 
     /// <summary>
-    /// Repository for storing payments in database
+    /// Repository for storing currencies in database
     /// </summary>
-    /// <seealso cref="PaymentsAPI.Repositories.IPaymentRepository" />
+    /// <seealso cref="currenciesAPI.Repositories.ICurrencyRepository" />
     public class CurrencyRepository : ICurrencyRepository
     {
 
         /// <summary>
-        /// Gets the list of payments from database.
+        /// Gets the list of currencies from database.
         /// </summary>
         /// <returns></returns>
         public Task<IEnumerable<CurrencyDto>> GetListOfCurrenciesFromDatabase()

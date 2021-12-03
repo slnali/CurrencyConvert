@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Currency.Api.Services
 {
     /// <summary>
-    /// Payments service implementing service pattern which contacts various repositories for processing/storng/getting
+    /// currencies service implementing service pattern which contacts various repositories for processing/storng/getting
     /// </summary>
     /// <seealso cref="ICurrencyService" />
     public class CurrencyService : ICurrencyService
@@ -20,7 +20,7 @@ namespace Currency.Api.Services
         /// Initializes a new instance of the <see cref="CurrencyService"/> class.
         /// </summary>
         /// <param name="exchangeRepository">The exchange repository.</param>
-        /// <param name="paymentRepository">The payment repository.</param>
+        /// <param name="currencyRepository">The currency repository.</param>
         public CurrencyService(IExchangeRepository exchangeRepository, ICurrencyRepository currencyRepository)
         {
             this.exchangeRepository = exchangeRepository;

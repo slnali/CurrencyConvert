@@ -14,7 +14,7 @@
         "outputPath": "/Users/nal/Documents/Repos/CurrencyConvert/Currency.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nal/.config/NuGet/NuGet.Config"
+          "/Users/nal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -105,7 +105,7 @@
         "outputPath": "/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nal/.config/NuGet/NuGet.Config"
+          "/Users/nal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

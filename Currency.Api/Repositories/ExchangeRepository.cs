@@ -12,7 +12,6 @@ namespace Currency.Api.Repositories
         /// <summary>
         /// Get the exchange rate for the fromCurrency to the toCurrency.
         /// </summary>
-        /// <param name="payment">The payment.</param>
         /// <returns></returns>
         /// <exception cref="NotImplementedException"></exception>
         public Task<float> GetExchangeRate(string fromCurrency, string toCurrency)

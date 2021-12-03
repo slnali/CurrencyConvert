@@ -10,7 +10,7 @@ namespace Currency.Api.Controllers
 {
     #region CurrenciesController
     /// <summary>
-    /// Implemens Payment controller gateway for receiving api requests from Merchants
+    /// Implemens convert controller 
     /// </summary>
     /// <seealso cref="ControllerBase" />
     [Route("api/[controller]")]
@@ -23,7 +23,7 @@ namespace Currency.Api.Controllers
         /// Initializes a new instance of the <see cref="ConvertController"/> class.
         /// </summary>
         /// <param name="context">The context.</param>
-        /// <param name="paymentsService">The payments service.</param>
+        /// <param name="currencyService">The currency service.</param>
         public ConvertController(ICurrencyService currencyService)
         {
             this.currencyService = currencyService;

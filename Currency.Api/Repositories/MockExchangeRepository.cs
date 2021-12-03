@@ -54,7 +54,6 @@ namespace Currency.Api.Repositories
         /// <summary>
         /// Gets exchange rate through the "Mock" Exchange.
         /// </summary>
-        /// <param name="payment">The payment.</param>
         /// <returns></returns>
         public Task<float> GetExchangeRate(string fromCurrency, string toCurrency)
         {

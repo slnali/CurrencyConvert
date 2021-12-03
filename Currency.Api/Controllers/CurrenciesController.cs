@@ -8,7 +8,7 @@ namespace Currency.Api.Controllers
 {
     #region CurrenciesController
     /// <summary>
-    /// Implemens Payment controller gateway for receiving api requests from Merchants
+    /// Implemens Currencies controller.
     /// </summary>
     /// <seealso cref="ControllerBase" />
     [Route("api/[controller]")]
@@ -21,7 +21,7 @@ namespace Currency.Api.Controllers
         /// Initializes a new instance of the <see cref="ConvertController"/> class.
         /// </summary>
         /// <param name="context">The context.</param>
-        /// <param name="paymentsService">The payments service.</param>
+        /// <param name="currencyService">The currency service.</param>
         public CurrenciesController(ICurrencyService currencyService)
         {
             this.currencyService = currencyService;
@@ -35,8 +35,8 @@ namespace Currency.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<CurrencyDto>>> GetListOfCurrencies()
         {
-            var payments = await currencyService.GetCurrenciesList().ConfigureAwait(false);
-            return Ok(payments);
+            var currencies = await currencyService.GetCurrenciesList().ConfigureAwait(false);
+            return Ok(currencies);
         }
     }
 }

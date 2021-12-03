@@ -11,7 +11,7 @@ using Currency.Contract.DTO;
 namespace Currency.Api.Tests
 {
     /// <summary>
-    /// Test Payments service class.
+    /// Test currencies service class.
     /// </summary>
     public class CurrencyServiceTests
     {
