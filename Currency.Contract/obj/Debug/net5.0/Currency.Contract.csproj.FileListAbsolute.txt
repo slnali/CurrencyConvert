@@ -1,0 +1,12 @@
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/bin/Debug/net5.0/Currency.Contract.deps.json
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/bin/Debug/net5.0/Currency.Contract.dll
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/bin/Debug/net5.0/ref/Currency.Contract.dll
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/bin/Debug/net5.0/Currency.Contract.pdb
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/obj/Debug/net5.0/Currency.Contract.csproj.AssemblyReference.cache
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/obj/Debug/net5.0/Currency.Contract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/obj/Debug/net5.0/Currency.Contract.AssemblyInfoInputs.cache
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/obj/Debug/net5.0/Currency.Contract.AssemblyInfo.cs
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/obj/Debug/net5.0/Currency.Contract.csproj.CoreCompileInputs.cache
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/obj/Debug/net5.0/Currency.Contract.dll
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/obj/Debug/net5.0/ref/Currency.Contract.dll
+/Users/nal/Documents/Repos/CurrencyConvert/Currency.Contract/obj/Debug/net5.0/Currency.Contract.pdb
